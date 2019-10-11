@@ -1,0 +1,23 @@
+{
+  "name": "samsung",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/like980110/samsung.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/like980110/samsung/issues"
+  },
+  "homepage": "https://github.com/like980110/samsung#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-ruby-sass": "^4.0.0"
+  }
+}
